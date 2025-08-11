@@ -55,7 +55,7 @@ This class has the robot configured in it.
 ### [util](https://github.com/Trivium-Prep-Robotics/Trivium-Robotics/tree/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util)
 Interfaces, Robot class, and other util
 #### We have:
-- [Arm interface]((https://github.com/Trivium-Prep-Robotics/Trivium-Robotics/blob/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Arm.java)
+- [Arm interface](https://github.com/Trivium-Prep-Robotics/Trivium-Robotics/blob/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Arm.java)
   - Methods for a robot with pivot and extend
 - [Claw interface](https://github.com/Trivium-Prep-Robotics/Trivium-Robotics/blob/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/parts/Claw.java)
   - Methods for a claw with a wrist
