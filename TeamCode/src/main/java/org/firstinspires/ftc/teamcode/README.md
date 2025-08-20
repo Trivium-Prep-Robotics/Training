@@ -5,6 +5,11 @@ The two repositories that fork from this are [18625-Trivium-Knightmares](https:/
 
 ![image](https://github.com/user-attachments/assets/6c02b179-7de0-48e2-8849-99d6d2f8d264)
 
+## Updating this Repo
+As of right now this repo is ahead
+![image](https://github.com/user-attachments/assets/11f62a3e-fc08-4635-81d9-bf846b843240)
+But if it is ever behind you need to contact me (NotTacos) so I can update it for you
+
 ## What is in this repo?
 This is good skeleton code to start the season.
 
