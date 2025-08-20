@@ -45,7 +45,8 @@ Interfaces, Robot class, and other util
   - [ ] Object inheritance
   - [ ] Keywords: public, private, static, extends
 - [Game Manual 0 - software](https://gm0.org/en/latest/docs/software/index.html#) - this is an amazing source for FTC specific coding basics, concepts, etc. Even outside of the software section gm0 is a great source for everything FTC.
-- [Pedro Pathing](https://pedropathing.com/) - this is the documentation for Pedro Pathing.
+- [Pedro Pathing](https://pedropathing.com/) - this is very good if you want to test your code and see what it does for your bot and you can practice and test code with it.
+- [FTC Robot Sim](https://sim.vrobotsim.online/programpage.html?course=IntoTheDeep)
 - [RoadRunner](https://rr.brott.dev/docs/v1-0/installation/) - documentation for RoadRunner use (at the moment this documentation sucks).
 - [Grok 3](https://grok.com/) - this is just an AI that helped me a lot even in the process of making this lol.
 - [Programmer's journal](https://docs.google.com/document/d/1O9rBL9iYiBHXd6xWO5uZ8Y3aDJPRSqbhFk_Z6YAwZxg/edit?usp=sharing) - I never used this, and I regret it. Basically if you have any unique issues you could check here to see if it has ever happened, but also if you solve your issue add it here and how you  fixed it.
